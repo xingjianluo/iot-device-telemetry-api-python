@@ -1,0 +1,2 @@
+# Runtime state is kept in process memory by default; this directory is a
+# placeholder for future local-file persistence. Nothing is stored here yet.
